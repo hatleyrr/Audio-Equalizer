@@ -4,7 +4,8 @@ ECE 287 Final Project for Section B - Authors: Royce Hatley &amp; Samuel Kanaan
 
 This project is a digital audio equalizer that uses Verilog, Quartus, and an FPGA to filter audio signals stored in a sample (sample recording module made by Dr. Peter Jamieson). This code was used on a DE1-SOC FPGA, I cannot guarantee that it will work on other models.
 
-Control is included in a README.txt file in the project files, but I will include it here too:
+Control is included in a README.txt file in the project files, but I will include it here too. Note that the pre-recorded sample is not included because the file was too large, so a sample must be recorded onto the FPGA to hear something.
+
 - Royce Hatley and Samuel Kanaan - Tested on DE1-SOC - Dec 13th, 2024
 
 Headphones connected to Green out RCA jack
