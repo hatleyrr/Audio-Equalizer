@@ -1,0 +1,9 @@
+/* This module will be instantiated to create band-pass filters that will filter the sample audio for equalization */
+
+module filter(clk, audio_in, audio_out)
+input clk;
+input [15:0] audio_in;
+output reg [15:0] audio_out;
+
+wire 
+endmodule
